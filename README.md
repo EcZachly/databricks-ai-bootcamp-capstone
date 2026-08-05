@@ -13,7 +13,6 @@ Every project on this list, regardless of which one you choose, must include:
 - **Processing of unstructured data** of some kind (video, audio, images, text, etc.) — e.g. embedding plot summaries, articles, job descriptions, or news text for semantic retrieval.
 - **A Databricks App with a frontend.**
 - **An AI agent that does stuff** — i.e. an agent with tools that can search/retrieve and also take real actions (writes) against your data.
-- **Change Data Feed (CDF) from Lakebase into a Delta table**, used to power analytics about your app (e.g. usage, agent tool calls, or data changes over time) inside that Delta table.
 
 If you have joined the "Rise of the AI Data Engineer" boot camp, then you can submit the capstone project [here](https://learn.dataexpert.io/assignment/4904)
 If you have not joined yet, you can join for free [here](https://learn.dataexpert.io/program/the-one-week-beginners-databricks-boot-camp-7129)
